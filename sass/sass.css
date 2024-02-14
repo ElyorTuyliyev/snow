@@ -1,1 +1,594 @@
-/*# sourceMappingURL=sass.css.map */
+body {
+  height: 100vh;
+  background-image: url(../img/the\ winter\ good);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  background-position: center;
+}
+
+img {
+  width: 10px;
+}
+
+.snow__wrapper {
+  display: flex;
+}
+
+.snow2__wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.snow3__wrapper {
+  display: flex;
+  gap: 5px;
+}
+
+.snow4__wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 5px;
+}
+
+.img-snow1 {
+  width: 10px;
+  animation: snow 3s infinite linear;
+}
+
+.img-snow2 {
+  width: 10px;
+  animation: snow 3s 0.1s infinite linear;
+}
+
+.img-snow3 {
+  width: 10px;
+  animation: snow 3s 0.2s infinite linear;
+}
+
+.img-snow4 {
+  width: 10px;
+  animation: snow 3s 0.3s infinite linear;
+}
+
+.img-snow5 {
+  width: 10px;
+  animation: snow 3s 0.4s infinite linear;
+}
+
+.img-snow6 {
+  width: 10px;
+  animation: snow 3s 0.6s infinite linear;
+}
+
+.img-snow7 {
+  width: 10px;
+  animation: snow 3s 0.7s infinite linear;
+}
+
+.img-snow8 {
+  width: 10px;
+  animation: snow 3s 0.8s infinite linear;
+}
+
+.img-snow9 {
+  width: 10px;
+  animation: snow 3s 0.9s infinite linear;
+}
+
+.img-snow10 {
+  width: 10px;
+  animation: snow 3s 1s infinite linear;
+}
+
+.img-snow11 {
+  width: 10px;
+  animation: snow 3s 1.1s infinite linear;
+}
+
+.img-snow12 {
+  width: 10px;
+  animation: snow 3s 1.3s infinite linear;
+}
+
+.img-snow13 {
+  width: 10px;
+  animation: snow 3s 1.4s infinite linear;
+}
+
+.img-snow14 {
+  width: 10px;
+  animation: snow 3s 1.5s infinite linear;
+}
+
+.img-snow15 {
+  width: 10px;
+  animation: snow 3s 1.6s infinite linear;
+}
+
+.img-snow16 {
+  width: 10px;
+  animation: snow 3s 1.7s infinite linear;
+}
+
+.img-snow17 {
+  width: 10px;
+  animation: snow 3s 1.8s infinite linear;
+}
+
+.img-snow18 {
+  width: 10px;
+  animation: snow 3s 1.9s infinite linear;
+}
+
+.img-snow19 {
+  width: 10px;
+  animation: snow 3s 2s infinite linear;
+}
+
+.img-snow20 {
+  width: 10px;
+  animation: snow 3s 2.1s infinite linear;
+}
+
+.img-snow21 {
+  width: 10px;
+  animation: snow 3s 2.2s infinite linear;
+}
+
+.img-snow22 {
+  width: 10px;
+  animation: snow 3s 2.3s infinite linear;
+}
+
+.img-snow23 {
+  width: 10px;
+  animation: snow 3s 2.4s infinite linear;
+}
+
+.img-snow24 {
+  width: 10px;
+  animation: snow 3s 2.5s infinite linear;
+}
+
+.img-snow25 {
+  width: 10px;
+  animation: snow 3s 2.6s infinite linear;
+}
+
+.img-snow26 {
+  width: 10px;
+  animation: snow 3s 2.7s infinite linear;
+}
+
+.img-snow27 {
+  width: 10px;
+  animation: snow 3s 2.8s infinite linear;
+}
+
+.img-snow28 {
+  width: 10px;
+  animation: snow 3s 2.9s infinite linear;
+}
+
+.img-snow29 {
+  width: 10px;
+  animation: snow 3s 3s infinite linear;
+}
+
+.img-snow30 {
+  width: 10px;
+  animation: snow 3s 3.1s infinite linear;
+}
+
+.img-snow31 {
+  width: 10px;
+  animation: snow 3s 3.2s infinite linear;
+}
+
+.img-snow32 {
+  width: 10px;
+  animation: snow 3s 3.3s infinite linear;
+}
+
+.img-snow33 {
+  width: 10px;
+  animation: snow 3s 3.4s infinite linear;
+}
+
+.img-snow34 {
+  width: 10px;
+  animation: snow 3s 3.5s infinite linear;
+}
+
+.img-snow35 {
+  width: 10px;
+  animation: snow 3s 3.6s infinite linear;
+}
+
+.img-snow36 {
+  width: 10px;
+  animation: snow 3s 3.7s infinite linear;
+}
+
+.img-snow37 {
+  width: 10px;
+  animation: snow 3s 3.8s infinite linear;
+}
+
+.img-snow38 {
+  width: 10px;
+  animation: snow 3s 3.9s infinite linear;
+}
+
+.img-snow39 {
+  width: 10px;
+  animation: snow 3s 4s infinite linear;
+}
+
+.img-snow40 {
+  width: 10px;
+  animation: snow 3s 4.1s infinite linear;
+}
+
+.img-snow41 {
+  width: 10px;
+  animation: snow 3s 4.2s infinite linear;
+}
+
+.img-snow42 {
+  width: 10px;
+  animation: snow 3s 4.3s infinite linear;
+}
+
+.img-snow43 {
+  width: 10px;
+  animation: snow 3s 4.4s infinite linear;
+}
+
+.img-snow44 {
+  width: 10px;
+  animation: snow 3s 4.5s infinite linear;
+}
+
+.img-snow45 {
+  width: 10px;
+  animation: snow 3s 4.6s infinite linear;
+}
+
+.img-snow46 {
+  width: 10px;
+  animation: snow 3s 4.7s infinite linear;
+}
+
+.img-snow47 {
+  width: 10px;
+  animation: snow 3s 4.8s infinite linear;
+}
+
+.img-snow48 {
+  width: 10px;
+  animation: snow 3s 4.9s infinite linear;
+}
+
+.img-snow49 {
+  width: 10px;
+  animation: snow 3s 5s infinite linear;
+}
+
+.img-snow50 {
+  width: 10px;
+  animation: snow 3s 5.1s infinite linear;
+}
+
+.img-snow51 {
+  width: 10px;
+  animation: snow 3s 5.2s infinite linear;
+}
+
+.img-snow52 {
+  width: 10px;
+  animation: snow 3s 5.3s infinite linear;
+}
+
+.img-snow53 {
+  width: 10px;
+  animation: snow 3s 5.4s infinite linear;
+}
+
+.img-snow54 {
+  width: 10px;
+  animation: snow 3s 5.5s infinite linear;
+}
+
+.img-snow55 {
+  width: 10px;
+  animation: snow 3s 5.6s infinite linear;
+}
+
+.img-snow56 {
+  width: 10px;
+  animation: snow 3s 5.7s infinite linear;
+}
+
+.img-snow57 {
+  width: 10px;
+  animation: snow 3s 5.8s infinite linear;
+}
+
+.img-snow58 {
+  width: 10px;
+  animation: snow 3s 5.9s infinite linear;
+}
+
+.img-snow59 {
+  width: 10px;
+  animation: snow 3s 6s infinite linear;
+}
+
+.img-snow60 {
+  width: 10px;
+  animation: snow 3s 6.1s infinite linear;
+}
+
+.img-snow61 {
+  width: 10px;
+  animation: snow 3s 6.2s infinite linear;
+}
+
+.img-snow62 {
+  width: 10px;
+  animation: snow 3s 6.3s infinite linear;
+}
+
+.img-snow63 {
+  width: 10px;
+  animation: snow 3s 6.4s infinite linear;
+}
+
+.img-snow64 {
+  width: 10px;
+  animation: snow 3s 6.5s infinite linear;
+}
+
+.img-snow65 {
+  width: 10px;
+  animation: snow 3s 6.6s infinite linear;
+}
+
+.img-snow66 {
+  width: 10px;
+  animation: snow 3s 6.7s infinite linear;
+}
+
+.img-snow67 {
+  width: 10px;
+  animation: snow 3s 6.8s infinite linear;
+}
+
+.img-snow68 {
+  width: 10px;
+  animation: snow 3s 6.9s infinite linear;
+}
+
+.img-snow69 {
+  width: 10px;
+  animation: snow 3s 7s infinite linear;
+}
+
+.img-snow70 {
+  width: 10px;
+  animation: snow 3s 7.1s infinite linear;
+}
+
+.img-snow71 {
+  width: 10px;
+  animation: snow 3s 7.2s infinite linear;
+}
+
+.img-snow72 {
+  width: 10px;
+  animation: snow 3s 7.3s infinite linear;
+}
+
+.img-snow73 {
+  width: 10px;
+  animation: snow 3s 7.4s infinite linear;
+}
+
+.img-snow74 {
+  width: 10px;
+  animation: snow 3s 7.5s infinite linear;
+}
+
+.img-snow75 {
+  width: 10px;
+  animation: snow 3s 7.6s infinite linear;
+}
+
+.img-snow76 {
+  width: 10px;
+  animation: snow 3s 7.7s infinite linear;
+}
+
+.img-snow77 {
+  width: 10px;
+  animation: snow 3s 7.8s infinite linear;
+}
+
+.img-snow78 {
+  width: 10px;
+  animation: snow 3s 7.9s infinite linear;
+}
+
+.img-snow79 {
+  width: 10px;
+  animation: snow 3s 8s infinite linear;
+}
+
+.img-snow80 {
+  width: 10px;
+  animation: snow 3s 8.1s infinite linear;
+}
+
+.img-snow81 {
+  width: 10px;
+  animation: snow 3s 8.2s infinite linear;
+}
+
+.img-snow82 {
+  width: 10px;
+  animation: snow 3s 8.3s infinite linear;
+}
+
+.img-snow80 {
+  width: 10px;
+  animation: snow 3s 8.4s infinite linear;
+}
+
+.img-snow83 {
+  width: 10px;
+  animation: snow 3s 8.5s infinite linear;
+}
+
+.img-snow84 {
+  width: 10px;
+  animation: snow 3s 8.6s infinite linear;
+}
+
+.img-snow85 {
+  width: 10px;
+  animation: snow 3s 8.7s infinite linear;
+}
+
+.img-snow86 {
+  width: 10px;
+  animation: snow 3s 8.8s infinite linear;
+}
+
+.img-snow87 {
+  width: 10px;
+  animation: snow 3s 8.9s infinite linear;
+}
+
+.img-snow88 {
+  width: 10px;
+  animation: snow 3s 9s infinite linear;
+}
+
+.img-snow89 {
+  width: 10px;
+  animation: snow 3s 9.1s infinite linear;
+}
+
+.img-snow90 {
+  width: 10px;
+  animation: snow 3s 9.2s infinite linear;
+}
+
+.img-snow91 {
+  width: 10px;
+  animation: snow 3s 9.3s infinite linear;
+}
+
+.img-snow92 {
+  width: 10px;
+  animation: snow 3s 9.4s infinite linear;
+}
+
+.img-snow93 {
+  width: 10px;
+  animation: snow 3s 9.5s infinite linear;
+}
+
+.img-snow94 {
+  width: 10px;
+  animation: snow 3s 9.6s infinite linear;
+}
+
+.img-snow95 {
+  width: 10px;
+  animation: snow 3s 9.7s infinite linear;
+}
+
+.img-snow96 {
+  width: 10px;
+  animation: snow 3s 9.8s infinite linear;
+}
+
+.img-snow97 {
+  width: 10px;
+  animation: snow 3s 9.9s infinite linear;
+}
+
+.img-snow98 {
+  width: 10px;
+  animation: snow 3s 10s infinite linear;
+}
+
+.img-snow99 {
+  width: 10px;
+  animation: snow 3s 10.1s infinite linear;
+}
+
+.img-snow100 {
+  width: 10px;
+  animation: snow 3s 10.2s infinite linear;
+}
+
+.img-snow101 {
+  width: 10px;
+  animation: snow 3s 10.3s infinite linear;
+}
+
+.img-snow102 {
+  width: 10px;
+  animation: snow 3s 10.4s infinite linear;
+}
+
+.img-snow103 {
+  width: 10px;
+  animation: snow 3s 10.5s infinite linear;
+}
+
+.img-snow104 {
+  width: 10px;
+  animation: snow 3s 10.6s infinite linear;
+}
+
+.img-snow105 {
+  width: 10px;
+  animation: snow 3s 10.7s infinite linear;
+}
+
+.img-snow106 {
+  width: 10px;
+  animation: snow 3s 10.8s infinite linear;
+}
+
+.img-snow107 {
+  width: 10px;
+  animation: snow 3s 10.9s infinite linear;
+}
+
+.img-snow108 {
+  width: 10px;
+  animation: snow 3s 11s infinite linear;
+}
+
+.img-snow109 {
+  width: 10px;
+  animation: snow 3s 11.1s infinite linear;
+}
+
+@keyframes snow {
+  0% {
+    transform: translatey(0);
+  }
+  50% {
+    transform: translatex(20px);
+  }
+  100% {
+    transform: translatey(110vh);
+  }
+}/*# sourceMappingURL=sass.css.map */
